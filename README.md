@@ -53,8 +53,3 @@ Welcome to my portfolio! Here are my most impactful projects categorized by doma
 * **Data Engineering:** Apache Spark, Kafka, Airflow, dbt, Delta Lake
 * **AI/ML:** PyTorch, HuggingFace, Scikit-Learn, MLOps (MLflow)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashShevkar30&show_icons=true&theme=radical" alt="Yash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashShevkar30&layout=compact&theme=radical" alt="Top Languages" />
-</p>
