@@ -28,9 +28,12 @@ Welcome to my portfolio! Here are my most impactful projects categorized by doma
 | 🌊 **[Spark Data Lake Pipeline](https://github.com/YashShevkar30/spark-data-lake-pipeline)** | PySpark ETL implementing Bronze/Silver/Gold medallion architecture. | *PySpark, Delta Lake* |
 | 🏗️ **[Airflow dbt Pipeline](https://github.com/YashShevkar30/airflow-dbt-pipeline)** | Automated data warehouse transformations with CI/CD quality checks. | *Apache Airflow, dbt* |
 
-### 🧠 Artificial Intelligence & LLMs
+### 🧠 Artificial Intelligence & ML Systems
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🎯 **[Nexus: Recommendation Engine](https://github.com/YashShevkar30/nexus-recommendation-engine)** | SVD++ collaborative filtering with FastAPI serving, Prometheus observability, and offline evaluation (P@K, NDCG, MAP). | *scikit-surprise, FastAPI, Locust* |
+| 🔍 **[Aura: Graph Search Relevance](https://github.com/YashShevkar30/aura-graph-search-relevance)** | Hybrid search engine combining Node2Vec graph embeddings with TF-IDF text relevance and SVM noise filtering. | *Gensim, scikit-learn, NetworkX* |
+| 📊 **[Vertex: Predictive Analytics](https://github.com/YashShevkar30/vertex-predictive-analytics)** | Spark-based analytics with K-Means segmentation and 5-model comparison (NB, XGBoost, LightGBM, GBM, AdaBoost). | *PySpark, XGBoost, LightGBM* |
 | 🤖 **[Agentic Chip Design Assistant](https://github.com/YashShevkar30/agentic-chip-design-assistant)** | RAG-based LLM agent for interpreting HDL and suggesting chip optimizations. | *LangChain, PyTorch, FAISS* |
 | 🌐 **[Multi-Modal Knowledge Graph](https://github.com/YashShevkar30/multimodal-knowledge-graph)** | GNN-based retrieval system indexing text, code, and circuit diagrams. | *PyTorch Geometric, Transformers* |
 | 🧠 **[NLP Sentiment Classifier](https://github.com/YashShevkar30/nlp-sentiment-classifier)** | End-to-end classification with TF-IDF baselines & DistilBERT serving. | *Scikit-Learn, BERT, FastAPI* |
@@ -51,5 +54,4 @@ Welcome to my portfolio! Here are my most impactful projects categorized by doma
 * **Cloud & DevOps:** AWS, Terraform, Docker, Kubernetes, CI/CD (GitHub Actions), Microservices
 * **Backend:** FastAPI, Flask, PostgreSQL, Redis, SQLAlchemy
 * **Data Engineering:** Apache Spark, Kafka, Airflow, dbt, Delta Lake
-* **AI/ML:** PyTorch, HuggingFace, Scikit-Learn, MLOps (MLflow)
-
+* **AI/ML:** PyTorch, HuggingFace, Scikit-Learn, XGBoost, LightGBM, MLOps (MLflow)
