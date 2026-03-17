@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Production-Grade Portfolio
+##  Portfolio
 
 Welcome to my portfolio! Here are my most impactful projects categorized by domain, complete with architecture diagrams, CI/CD, and Docker deployments.
 
