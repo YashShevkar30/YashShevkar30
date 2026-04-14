@@ -28,11 +28,18 @@ Welcome to my portfolio! Here are my most impactful projects categorized by doma
 | 🌊 **[Spark Data Lake Pipeline](https://github.com/YashShevkar30/spark-data-lake-pipeline)** | PySpark ETL implementing Bronze/Silver/Gold medallion architecture. | *PySpark, Delta Lake* |
 | 🏗️ **[Airflow dbt Pipeline](https://github.com/YashShevkar30/airflow-dbt-pipeline)** | Automated data warehouse transformations with CI/CD quality checks. | *Apache Airflow, dbt* |
 
+### 📱 Mobile & Frontend Engineering
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚀 **[FinConnect: Real-Time Mobile Engine](https://github.com/YashShevkar30/finconnect-mobile-engine)** | Scalable iOS finance application processing 1.2M encrypted payloads with a 22.8% battery reduction. | *Swift, SwiftUI, MVVM* |
+| 🎨 **[Aura: Responsive Frontend Surface](https://github.com/YashShevkar30/aura-responsive-frontend)** | High-performance React web components eliminating 91% redundant DOM renders. | *React, TypeScript, CSS* |
+| 🔀 **[Nexus: Cross-Platform UI Engine](https://github.com/YashShevkar30/nexus-cross-platform-ui)** | Dynamic interface adapter merging HTML with UIKit, mitigating runtime crashes with 54.3% faster execution. | *Swift, UIKit, TypeScript* |
+
 ### 🧠 Artificial Intelligence & ML Systems
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎯 **[Nexus: Recommendation Engine](https://github.com/YashShevkar30/nexus-recommendation-engine)** | SVD++ collaborative filtering with FastAPI serving, Prometheus observability, and offline evaluation (P@K, NDCG, MAP). | *scikit-surprise, FastAPI, Locust* |
-| 🔍 **[Aura: Graph Search Relevance](https://github.com/YashShevkar30/aura-graph-search-relevance)** | Hybrid search engine combining Node2Vec graph embeddings with TF-IDF text relevance and SVM noise filtering. | *Gensim, scikit-learn, NetworkX* |
+| 🎯 **[RecSys: Recommendation Engine](https://github.com/YashShevkar30/recsys-recommendation-engine)** | SVD++ collaborative filtering with FastAPI serving, Prometheus observability, and offline evaluation (P@K, NDCG, MAP). | *scikit-surprise, FastAPI, Locust* |
+| 🔍 **[GraphSense: Graph Search Relevance](https://github.com/YashShevkar30/graph-search-relevance)** | Hybrid search engine combining Node2Vec graph embeddings with TF-IDF text relevance and SVM noise filtering. | *Gensim, scikit-learn, NetworkX* |
 | 📊 **[Vertex: Predictive Analytics](https://github.com/YashShevkar30/vertex-predictive-analytics)** | Spark-based analytics with K-Means segmentation and 5-model comparison (NB, XGBoost, LightGBM, GBM, AdaBoost). | *PySpark, XGBoost, LightGBM* |
 | 🤖 **[Agentic Chip Design Assistant](https://github.com/YashShevkar30/agentic-chip-design-assistant)** | RAG-based LLM agent for interpreting HDL and suggesting chip optimizations. | *LangChain, PyTorch, FAISS* |
 | 🌐 **[Multi-Modal Knowledge Graph](https://github.com/YashShevkar30/multimodal-knowledge-graph)** | GNN-based retrieval system indexing text, code, and circuit diagrams. | *PyTorch Geometric, Transformers* |
