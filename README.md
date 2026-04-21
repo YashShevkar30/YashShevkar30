@@ -38,6 +38,7 @@ Welcome to my portfolio! Here are my most impactful projects categorized by doma
 ### 🧠 Artificial Intelligence & ML Systems
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🧠 **[Enterprise Agentic RAG](https://github.com/YashShevkar30/enterprise-agentic-rag)** | Production-grade platform for document ingestion, vector search (pgvector), and autonomous AI agents with LangGraph and RAGAS evaluation. | *Django, LangGraph, React 19, pgvector, Docker* |
 | 🎯 **[RecSys: Recommendation Engine](https://github.com/YashShevkar30/recsys-recommendation-engine)** | SVD++ collaborative filtering with FastAPI serving, Prometheus observability, and offline evaluation (P@K, NDCG, MAP). | *scikit-surprise, FastAPI, Locust* |
 | 🔍 **[GraphSense: Graph Search Relevance](https://github.com/YashShevkar30/graph-search-relevance)** | Hybrid search engine combining Node2Vec graph embeddings with TF-IDF text relevance and SVM noise filtering. | *Gensim, scikit-learn, NetworkX* |
 | 📊 **[Vertex: Predictive Analytics](https://github.com/YashShevkar30/vertex-predictive-analytics)** | Spark-based analytics with K-Means segmentation and 5-model comparison (NB, XGBoost, LightGBM, GBM, AdaBoost). | *PySpark, XGBoost, LightGBM* |
@@ -59,6 +60,6 @@ Welcome to my portfolio! Here are my most impactful projects categorized by doma
 
 * **Software Engineering:** Python, Go, C++, JavaScript, System Design, Distributed Systems
 * **Cloud & DevOps:** AWS, Terraform, Docker, Kubernetes, CI/CD (GitHub Actions), Microservices
-* **Backend:** FastAPI, Flask, PostgreSQL, Redis, SQLAlchemy
+* **Backend:** FastAPI, Django, Flask, PostgreSQL, Redis, SQLAlchemy
 * **Data Engineering:** Apache Spark, Kafka, Airflow, dbt, Delta Lake
-* **AI/ML:** PyTorch, HuggingFace, Scikit-Learn, XGBoost, LightGBM, MLOps (MLflow)
+* **AI/ML:** PyTorch, LangChain, LangGraph, HuggingFace, Scikit-Learn, XGBoost, LightGBM, MLOps (MLflow)
