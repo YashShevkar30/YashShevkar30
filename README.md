@@ -21,6 +21,13 @@ Welcome to my portfolio! Here are my most impactful projects categorized by doma
 | 🔐 **[API Gateway & Auth Service](https://github.com/YashShevkar30/api-gateway-auth-service)** | Reverse proxy with secure JWT auth and Redis-backed sliding window rate limiting. | *FastAPI, Redis, SQLAlchemy* |
 | ⚡ **[Cloud-Native Order Service](https://github.com/YashShevkar30/cloud-native-order-service)** | Scalable microservice for order processing with complete test coverage. | *Python, Microservices* |
 
+### 🧪 QA Automation & Testing
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚦 **[API Gateway Test Automation Suite](https://github.com/YashShevkar30/api-gateway-test-automation-suite)** | End-to-end API gateway validation with 200+ parameterized tests covering authentication, routing, rate limits, and error contracts. | *C#, Python, NUnit, GitHub Actions* |
+| 📡 **[IoT Sensor Data Validation Pipeline](https://github.com/YashShevkar30/iot-sensor-data-validation-pipeline)** | Automated ingestion-to-processing validation for IoT flows with schema checks, SQL assertions, and containerized execution. | *Python, C#, SQL, Docker* |
+| 📱 **[Mobile App Regression Test Suite](https://github.com/YashShevkar30/mobile-app-regression-test-suite)** | Appium-based Android/iOS regression automation with explicit waits and robust locator strategies for high reliability. | *Python, Appium, Pytest* |
+
 ### ☁️ Cloud Engineering & DevOps
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
