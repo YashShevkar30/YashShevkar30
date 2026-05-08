@@ -39,8 +39,8 @@ Welcome to my portfolio! Here are my most impactful projects categorized by doma
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🚀 **[FinConnect: Real-Time Mobile Engine](https://github.com/YashShevkar30/finconnect-mobile-engine)** | Scalable iOS finance application processing 1.2M encrypted payloads with a 22.8% battery reduction. | *Swift, SwiftUI, MVVM* |
-| 🎨 **[Aura: Responsive Frontend Surface](https://github.com/YashShevkar30/aura-responsive-frontend)** | High-performance React web components eliminating 91% redundant DOM renders. | *React, TypeScript, CSS* |
-| 🔀 **[Nexus: Cross-Platform UI Engine](https://github.com/YashShevkar30/nexus-cross-platform-ui)** | Dynamic interface adapter merging HTML with UIKit, mitigating runtime crashes with 54.3% faster execution. | *Swift, UIKit, TypeScript* |
+| 🎨 **[Aura: AI-Powered Predictive Financial Engine](https://github.com/YashShevkar30/aura-ai-predictive-financial-engine)** | Full-stack SaaS application combining a React frontend with ML-driven financial forecasting for real-time scenario analysis. | *Python, FastAPI, Machine Learning, React* |
+| 🔀 **[Nexus: Distributed API Gateway](https://github.com/YashShevkar30/nexus-distributed-api-gateway)** | Resilient Spring Boot gateway with modular routing, automated testing, and CI pipelines for high-throughput distributed traffic. | *Java, Spring Boot, Jenkins, Git* |
 
 ### 🧠 Artificial Intelligence & ML Systems
 | Project | Description | Tech Stack |
@@ -48,7 +48,7 @@ Welcome to my portfolio! Here are my most impactful projects categorized by doma
 | 🧠 **[Enterprise Agentic RAG](https://github.com/YashShevkar30/enterprise-agentic-rag)** | Production-grade platform for document ingestion, vector search (pgvector), and autonomous AI agents with LangGraph and RAGAS evaluation. | *Django, LangGraph, React 19, pgvector, Docker* |
 | 🎯 **[RecSys: Recommendation Engine](https://github.com/YashShevkar30/recsys-recommendation-engine)** | SVD++ collaborative filtering with FastAPI serving, Prometheus observability, and offline evaluation (P@K, NDCG, MAP). | *scikit-surprise, FastAPI, Locust* |
 | 🔍 **[GraphSense: Graph Search Relevance](https://github.com/YashShevkar30/graph-search-relevance)** | Hybrid search engine combining Node2Vec graph embeddings with TF-IDF text relevance and SVM noise filtering. | *Gensim, scikit-learn, NetworkX* |
-| 📊 **[Vertex: Predictive Analytics](https://github.com/YashShevkar30/vertex-predictive-analytics)** | Spark-based analytics with K-Means segmentation and 5-model comparison (NB, XGBoost, LightGBM, GBM, AdaBoost). | *PySpark, XGBoost, LightGBM* |
+| 📊 **[Vertex: Agile Telemetry Dashboard](https://github.com/YashShevkar30/vertex-agile-telemetry-dashboard)** | Real-time Node.js telemetry dashboard processing deployment events, surfacing service-level trends, and accelerating incident triage workflows. | *JavaScript, Node.js, Git* |
 | 🤖 **[Agentic Chip Design Assistant](https://github.com/YashShevkar30/agentic-chip-design-assistant)** | RAG-based LLM agent for interpreting HDL and suggesting chip optimizations. | *LangChain, PyTorch, FAISS* |
 | 🌐 **[Multi-Modal Knowledge Graph](https://github.com/YashShevkar30/multimodal-knowledge-graph)** | GNN-based retrieval system indexing text, code, and circuit diagrams. | *PyTorch Geometric, Transformers* |
 | 🧠 **[NLP Sentiment Classifier](https://github.com/YashShevkar30/nlp-sentiment-classifier)** | End-to-end classification with TF-IDF baselines & DistilBERT serving. | *Scikit-Learn, BERT, FastAPI* |
